@@ -1,0 +1,7 @@
+[book]
+title = "FHE-Enabled Blockchain Security"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/fhe-blockchain-security"
